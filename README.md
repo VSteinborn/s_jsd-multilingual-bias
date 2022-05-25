@@ -1,4 +1,4 @@
-# ![S_{JSD}](https://latex.codecogs.com/svg.image?S_{JSD}) Multilingual Gender Bias
+# S<sub>JSD</sub> Multilingual Gender Bias
 
 This Repository presents the code, data and supplementary material used for the paper "An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models" (Findings of NAACL 2022)
 
