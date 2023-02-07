@@ -18,7 +18,7 @@ sacremoses==0.0.47
 scipy==1.7.3
 six==1.16.0
 tokenizers==0.10.3
-torch==1.10.1
+torch==1.13.1
 tqdm==4.62.3
 transformers==4.15.0
 typing-extensions==4.0.1
